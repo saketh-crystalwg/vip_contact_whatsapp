@@ -1,7 +1,4 @@
 pandas
-email.mime.multipart
-email.mime.text
-email.utils
 babel
 mysql-connector-python==8.0.33
 openpyxl
