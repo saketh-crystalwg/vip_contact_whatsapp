@@ -1,0 +1,13 @@
+pandas
+smtplib
+ssl
+email.mime.multipart
+email.mime.text
+email.utils
+babel
+mysql-connector-python==8.0.33
+openpyxl
+requests
+requests.auth
+sqlalchemy
+psycopg2
