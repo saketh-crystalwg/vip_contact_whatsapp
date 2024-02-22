@@ -1,6 +1,4 @@
 pandas
-smtplib
-ssl
 email.mime.multipart
 email.mime.text
 email.utils
