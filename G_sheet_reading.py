@@ -26,7 +26,7 @@ def send_mail(send_from, send_to, subject, text, server, port, username='', pass
 
 
 sender = "sakethg250@gmail.com"
-recipients = ["sakethg250@gmail.com", "marcos@crystalwg.com"]
+recipients = ["sakethg250@gmail.com"]
 password = "xjyb jsdl buri ylqr"
 
 gsheetid = "178Vx8365dlEqPnsMYL-tUTEroN9zmQl8ebRryC3Zqzs"
